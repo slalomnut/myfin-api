@@ -1,8 +1,8 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-📟 ***The API project is available [here](https://github.com/aFaneca/myfin-api/).*** 📟
+🖥️ ***The WEB app project is available [here](https://github.com/aFaneca/myfin/).*** 🖥️
 
-📱 ***The android mobile app project lives [here](https://github.com/aFaneca/myfin-android/).*** 📱
+📱 ***The android mobile app project is available [here](https://github.com/aFaneca/myfin-android/).*** 📱
 
 #  🏦📈💳 MyFin - Personal Finances Platform 
 
@@ -10,10 +10,7 @@
   - [Features](#-features)
   - [Roadmap](#%EF%B8%8F-roadmap)
 - [Getting Started](#-getting-started)
-  - [Demo account - try it for yourself!](#demo-account---try-it-for-yourself)
-  - [Initial setup](#initial-setup)
 - [Contributing](#%EF%B8%8F-contributing)
-- [Dependencies](#-dependencies)
 
 # ⚡ About MyFin
 
@@ -28,19 +25,18 @@ MyFin is my <u>attempt</u> to solve all of these issues. It has helped me manage
 it can be useful for you as well.
 
 <p align="center">
-  <img src="/screenshots/1.PNG" alt="MyFin" width="400">
-  <img src="/screenshots/2.PNG" alt="MyFin" width="400">
-  <img src="/screenshots/3.PNG" alt="MyFin" width="400">
-  <img src="/screenshots/4.PNG" alt="MyFin" width="400">
-  <img src="/screenshots/13.PNG" alt="MyFin" width="400">
-  <img src="/screenshots/14.PNG" alt="MyFin" width="400">
-  <img src="/screenshots/15.PNG" alt="MyFin" width="400">
-  <img src="/screenshots/16.PNG" alt="MyFin" width="400">
-  <img src="/screenshots/17.PNG" alt="MyFin" width="400">
-  <img src="/screenshots/18.PNG" alt="MyFin" width="400">
-  <img src="/screenshots/19.PNG" alt="MyFin" width="400">
-  <img src="/screenshots/20.PNG" alt="MyFin" width="400">
-
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/1.PNG" alt="MyFin" width="400">
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/2.PNG" alt="MyFin" width="400">
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/3.PNG" alt="MyFin" width="400">
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/4.PNG" alt="MyFin" width="400">
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/13.PNG" alt="MyFin" width="400">
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/14.PNG" alt="MyFin" width="400">
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/16.PNG" alt="MyFin" width="400">
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/17.PNG" alt="MyFin" width="400">
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/18.PNG" alt="MyFin" width="400">
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/19.PNG" alt="MyFin" width="400">
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/20.PNG" alt="MyFin" width="400">
+  <img src="https://raw.githubusercontent.com/afaneca/myfin/master/screenshots/15.PNG" alt="MyFin" width="400">
 </p>
 
 ## ✨ Features
@@ -73,24 +69,14 @@ Here's some of the features currently in development or planned for the near fut
 - & much more...
 
 # 🔰 Getting Started
-## Demo account - try it for yourself!
-Before fully committing to it, you can give MyFin a try by using the demo account I've made available [here](https://myfin.afaneca.com).
-````
-Username: demo
-Password: demo
-````
 
-## Initial setup
-[Here](https://github.com/aFaneca/myfin/wiki/Project-Setup#initial-setup) you can find the full documentation on the
+This project relies on NodeJS's Express framework for its backend and there's where most of the initial setup will take place
+if you want to deploy this solution to your own server.
+
+[Here](https://github.com/afaneca/myfin-api/wiki/Getting-started) you can find the full documentation on the
 first steps to get started.
 
 # 🙋‍♂️ Contributing
 
 This was never meant to be anything other than a little passion project of mine. However, if you're interested in taking
 this project and make it your own or add something to it, you're more than welcome to do so. Just get in touch :)
-
-# 📦 Dependencies
-
-## Web
-
-This app was built with React, using Typescript. You can check the full list of dependencies [here](/package.json).
